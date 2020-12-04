@@ -24,6 +24,7 @@ public static void main(String[] args) {
              }
              
              
+             
              //upper half except 1st
              else if( i <= n/2)
              {
