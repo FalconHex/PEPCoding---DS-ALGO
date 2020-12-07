@@ -79,7 +79,8 @@ public static void main(String[] args) throws Exception {
     }
     
     
-    //removing all the left hand 0s 
+    //if after dealing with last elem carry has some value left
+    //printing them first
     if(c != 0)
     {
         System.out.println(c);
